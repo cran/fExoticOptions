@@ -1,7 +1,7 @@
 Package: fExoticOptions
-Version: 2100.76
-Revision: 4057
-Date: 2009-09-28
+Version: 2110.77
+Revision:
+Date: 2009-11-03
 Title: Exotic Option Valuation
 Author: Diethelm Wuertz and many others, see the SOURCE file
 Depends: R (>= 2.4.0), methods, timeDate, timeSeries, fBasics, fOptions
@@ -16,6 +16,6 @@ LazyLoad: yes
 LazyData: yes
 License: GPL (>= 2)
 URL: http://www.rmetrics.org
-Packaged: 2009-09-28 15:21:32 UTC; yankee
+Packaged: 2012-10-29 08:58:41 UTC; ripley
 Repository: CRAN
-Date/Publication: 2009-09-29 18:44:09
+Date/Publication: 2012-10-29 08:58:41
