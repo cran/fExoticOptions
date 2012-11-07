@@ -1,6 +1,6 @@
-5789820d421597f9549407d6618d7f3e *ChangeLog
-87259f8be5361a6f20fb619ddcc0e443 *DESCRIPTION
-6018a26de8433621ed2632c3c1ec0f9b *NAMESPACE
+afaef1d3eb6bb30d55dfeaa89f3dd598 *ChangeLog
+78300dc58dae0adebd6daaa6daf8ce8c *DESCRIPTION
+eec425de7ee1ecd5751635911901df14 *NAMESPACE
 84df7901d9c14d6372b8a9aed76aedfe *R/AsianOptions.R
 4c917d3583ac89f721cdb9ee5d477672 *R/BarrierOptions.R
 865b9da5e21426df26f817c66668f974 *R/BinaryOptions.R
@@ -10,7 +10,6 @@
 9b1ce3e93a2091800fdf5687d6bd1d36 *R/MultipleExercisesOptions.R
 0509a6640973dba129c5b6737d349ea6 *R/zzz.R
 6042b9c5e5bec3ecc1b6959cd2858b64 *inst/COPYRIGHT.html
-8b32ea564a484f83d2bbbabef35dc37e *inst/DocCopying.pdf
 e3426432ec17e71a562e7c2fb6ad3952 *inst/unitTests/Makefile
 832ba294e302210649e3583353d42aad *inst/unitTests/runTests.R
 8fd8cc28da7a07a3bf252bcd62d70864 *inst/unitTests/runit.BarrierOptions.R

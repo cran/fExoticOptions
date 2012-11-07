@@ -1,14 +1,75 @@
-# Default NAMESPACE created by R
-# Remove the previous line if you edit this file
 
-# Export all names
-exportPattern(".")
+################################################
+## Note this file has been automatically
+## generated --- Do not edit it.
+################################################
 
-# Import all packages listed as Imports or Depends
-import(
-  methods,
-  timeDate,
-  timeSeries,
-  fBasics,
-  fOptions
-)
+################################################
+## import name space
+################################################
+
+import("methods")
+import("timeDate")
+import("timeSeries")
+import("fBasics")
+import("fOptions")
+
+################################################
+## S4 classes
+################################################
+
+
+################################################
+## S3 classes
+################################################
+
+
+################################################
+## functions
+################################################
+
+export(
+    ".EOnEOption.CriticalPart2",
+    ".EOnEOption.CriticalPart3",
+    ".EOnEOption.CriticalPrice",
+    "AmericanExchangeOption",
+    "AssetOrNothingOption",
+    "BinaryBarrierOption",
+    "CashOrNothingOption",
+    "ComplexChooserOption",
+    "DiscreteBarrierOption",
+    "DoubleBarrierOption",
+    "EquityLinkedFXOption",
+    "EuropeanExchangeOption",
+    "ExchangeOnExchangeOption",
+    "ExecutiveStockOption",
+    "ExtremeSpreadOption",
+    "FEInDomesticFXOption",
+    "FixedStrikeLookbackOption",
+    "FloatingStrikeLookbackOption",
+    "ForwardStartOption",
+    "GapOption",
+    "GeometricAverageRateOption",
+    "HolderExtendibleOption",
+    "LevyAsianApproxOption",
+    "LookBarrierOption",
+    "OptionOnOption",
+    "PTFixedStrikeLookbackOption",
+    "PTFloatingStrikeLookbackOption",
+    "PTSingleAssetBarrierOption",
+    "PTTwoAssetBarrierOption",
+    "QuantoOption",
+    "RatchetOption",
+    "SimpleChooserOption",
+    "SoftBarrierOption",
+    "SpreadApproxOption",
+    "StandardBarrierOption",
+    "SuperShareOption",
+    "TakeoverFXOption",
+    "TimeSwitchOption",
+    "TurnbullWakemanAsianApproxOption",
+    "TwoAssetBarrierOption",
+    "TwoAssetCashOrNothingOption",
+    "TwoAssetCorrelationOption",
+    "TwoRiskyAssetsOption",
+    "WriterExtendibleOption" )
